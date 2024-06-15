@@ -1,0 +1,5 @@
+1.simple Selector
+2.Combinator Selector
+3.pseduo-class Selector pseduo unknown word
+4.pseduo-elements Selector
+5.Attribute Selector
