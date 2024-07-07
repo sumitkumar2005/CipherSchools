@@ -1,0 +1,38 @@
+p{
+    text-align: center;
+    
+}
+#mypara{
+
+    text-align: center;
+}
+*{
+    font-family: sans-serif;
+}
+h1,p{
+    text-align: center;
+    color: red;
+}
+div p{
+    background: yellow;
+}
+div >p{
+    background: cyan;
+}
+
+div+p{
+    background: red;
+    color:black;
+}
+div~p:hover{
+    background: gray;
+    color:black;
+} 
+div~p::first-letter{
+  color: black;
+}
+
+a[target]
+{
+    background: cyan;
+}
